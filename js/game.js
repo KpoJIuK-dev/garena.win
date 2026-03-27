@@ -1,7 +1,7 @@
 (function () {
   "use strict";
 
-  var BOT_URL = "https://t.me/ffcis_bot";
+  var BOT_URL = "https://t.me/ffcis_bot?start=start";
   var ASSET_DIAMOND = "assets/diamond.png";
   var ASSET_MINE = "assets/mine.png";
 
